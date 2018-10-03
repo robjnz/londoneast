@@ -1,7 +1,7 @@
 {
   "name": "londonnuxt",
   "version": "1.0.0",
-  "description": "My good Nuxt.js project",
+  "description": "Information about what’s happening in east London, live travel updates on the underground, tube, overground, DLR, and the busses. Links to east London cinemas, theatre, places to eat and visit for days out and much more!",
   "author": "robjnz",
   "private": true,
   "scripts": {
