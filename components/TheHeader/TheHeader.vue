@@ -34,6 +34,12 @@
         <b-dropdown-item href="/travel-links">Travel Links</b-dropdown-item>
       </b-nav-item-dropdown>
 
+      <b-nav-item-dropdown text="East London Boroughs" right>
+        <b-dropdown-item href="/travel">Live Train Times</b-dropdown-item>
+        <b-dropdown-item href="/twitter-tfl">Twitter tfl</b-dropdown-item>
+        <b-dropdown-item href="/travel-links">Travel Links</b-dropdown-item>
+      </b-nav-item-dropdown>
+
       <b-nav-item href="/news">News</b-nav-item>
       <b-nav-item href="/travel">Travel</b-nav-item>
       <b-nav-item href="/about">About</b-nav-item>
