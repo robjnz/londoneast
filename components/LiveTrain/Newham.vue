@@ -16,12 +16,12 @@
   <br>
   <b-button-group>
   <b-button href="http://bit.ly/2NXdQFa" target="_blank" variant="info">Stratford</b-button>
-  <b-button href="http://bit.ly/2OXzBRI" target="_blank" variant="info">stratford International</b-button>
-  <b-button href="http://bit.ly/2y2U5kN" target="_blank" variant="info">Wansted Park</b-button>
+  <b-button href="http://bit.ly/2OXzBRI" target="_blank" variant="info">Stratford International</b-button>
   </b-button-group>
   <br>
   <br>
   <b-button-group>
+  <b-button href="http://bit.ly/2y2U5kN" target="_blank" variant="info">Wansted Park</b-button>
   <b-button href="http://bit.ly/2RcivBj" target="_blank" variant="info">Woodgrange Park</b-button>
     </b-button-group>
 

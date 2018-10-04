@@ -12,6 +12,7 @@
   <Newham />
   <Redbridge />
   <TowerHamlets />
+  <WalthamForest />
 
     </div>
       </b-container>
@@ -29,6 +30,7 @@ import Lewisham from '@/components/LiveTrain/Lewisham'
 import Newham from '@/components/LiveTrain/Newham'
 import Redbridge from '@/components/LiveTrain/Redbridge'
 import TowerHamlets from '@/components/LiveTrain/TowerHamlets'
+import WalthamForest from '@/components/LiveTrain/WalthamForest'
 
 
 
@@ -43,6 +45,7 @@ export default {
     Newham,
     Redbridge,
     TowerHamlets,
+    WalthamForest,
   }
 }
 </script>
