@@ -43,7 +43,9 @@ color: #1A8c97;
 
 .main-content{
   margin-top: 4.5rem;
-
+}
+.labour{
+  color: red;
 }
 
 

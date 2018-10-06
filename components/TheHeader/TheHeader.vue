@@ -35,7 +35,7 @@
       </b-nav-item-dropdown>
 
       <b-nav-item-dropdown text="East London Boroughs" right>
-        <b-dropdown-item href="/travel">Live Train Times</b-dropdown-item>
+        <b-dropdown-item href="/Barking">Barking</b-dropdown-item>
         <b-dropdown-item href="/twitter-tfl">Twitter tfl</b-dropdown-item>
         <b-dropdown-item href="/travel-links">Travel Links</b-dropdown-item>
       </b-nav-item-dropdown>

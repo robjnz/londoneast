@@ -7,7 +7,7 @@
       <div>
       <b-card-group deck
       class="mb-3">
-    <b-card  bg-variant="dark" text-variant="white" titl>
+    <b-card bg-variant="dark" text-variant="white" title= "">
   <p class="title-color">
 
   </p>
@@ -21,6 +21,7 @@
   </b-card>
   </b-card-group>
 </div>
+
       </b-container>
       </section>
 

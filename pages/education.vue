@@ -73,6 +73,38 @@
 </b-card>
 </b-card-group>
 
+<b-card-group deck
+      class="mb-3">
+<b-card bg-variant="dark" text-variant="white" title= "Barking & Dagenham Collage">
+  <p class="title-color">
+    Place to learn for students of all ages.
+    <br>
+    <br>
+  </p>
+  <b-button href="http://bit.ly/2QuFHth" target="_blank" variant="info">open</b-button>
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "2">
+  <p class="title-color">
+    International programme that helps you develop digital, enterprise and employability skills for free.
+    <br>
+    <br>
+
+  </p>
+  <b-button href="#" target="_blank" variant="info">open</b-button>
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "3">
+  <p class="title-color">
+    Study online whenever and however you want.
+    <br>
+    <br>
+    <br>
+  </p>
+  <b-button href="#" target="_blank" variant="info">open</b-button>
+</b-card>
+</b-card-group>
+
 
 
 
