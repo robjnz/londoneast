@@ -77,21 +77,23 @@
       class="mb-3">
 <b-card bg-variant="dark" text-variant="white" title= "Barking & Dagenham Collage">
   <p class="title-color">
+    <br>
     Place to learn for students of all ages.
+    <br>
     <br>
     <br>
   </p>
   <b-button href="http://bit.ly/2QuFHth" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "2">
+<b-card bg-variant="dark" text-variant="white" title= "Learning and Enterprice<br>Collage Bexley">
   <p class="title-color">
-    International programme that helps you develop digital, enterprise and employability skills for free.
+    Adult education, vocational qualifications and skills for life.
     <br>
     <br>
 
   </p>
-  <b-button href="#" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2C1lMhr" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "3">

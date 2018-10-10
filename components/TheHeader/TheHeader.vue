@@ -36,14 +36,13 @@
 
       <b-nav-item-dropdown text="East London Boroughs" right>
         <b-dropdown-item href="/Barking">Barking</b-dropdown-item>
-        <b-dropdown-item href="/twitter-tfl">Twitter tfl</b-dropdown-item>
-        <b-dropdown-item href="/travel-links">Travel Links</b-dropdown-item>
-      </b-nav-item-dropdown>
+        <b-dropdown-item href="/Bexley">Bexley</b-dropdown-item>
+        <b-dropdown-item href="/Greenwich">Greenwich</b-dropdown-item>
+        </b-nav-item-dropdown>
 
       <b-nav-item href="/news">News</b-nav-item>
       <b-nav-item href="/travel">Travel</b-nav-item>
       <b-nav-item href="/about">About</b-nav-item>
-      <b-nav-item href="#" disabled>Disabled</b-nav-item>
     </b-navbar-nav>
 
     <!-- Right aligned nav items -->

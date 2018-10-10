@@ -45,7 +45,10 @@ color: #1A8c97;
   margin-top: 4.5rem;
 }
 .labour{
-  color: red;
+  color: #ef4836;
+}
+.tory{
+  color: #1e90ff;
 }
 
 
