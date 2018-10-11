@@ -1,16 +1,16 @@
 <template>
   <div>
-  <b-carousel id="carousel1"
-              style = "text-shadow: 1px 1px 2px #333;"
-              controls
-              indicators
-                 background     = "#ababab"
-               :interval        = "4000"
-                 img-width      = "1024"
-                 img-height     = "480"
-                 v-model        = "slide"
-                 @sliding-start = "onSlideStart"
-                 @sliding-end   = "onSlideEnd"
+    <b-carousel id="carousel1"
+                style = "text-shadow: 1px 1px 2px #333;"
+                controls
+                indicators
+                                      background     = "#ababab"
+                                    :interval        = "4000"
+                                      img-width      = "1024"
+                                      img-height     = "480"
+                                      v-model        = "slide"
+                                      @sliding-start = "onSlideStart"
+                                      @sliding-end   = "onSlideEnd"
     >
 
       <!-- Text slides with image -->
@@ -45,6 +45,10 @@
 
 
     </b-carousel>
+      <p class="mt-4">
+      Slide #      : {{ slide }}<br>
+            Sliding: {{ sliding }}
+    </p>
     <h2>places to visit</h2>
 
   </div>
