@@ -96,9 +96,44 @@
   <b-button href="http://bit.ly/2C1lMhr" target="_blank" variant="info">open</b-button>
 </b-card>
 
+<b-card bg-variant="dark" text-variant="white" title= "Greenwich college">
+  <p class="title-color">
+    <br>
+    Greenwich adult and continuing education.
+    <br>
+    <br>
+    <br>
+  </p>
+  <b-button href="http://bit.ly/2RJr1YL" target="_blank" variant="info">open</b-button>
+</b-card>
+</b-card-group>
+
+
+<b-card-group deck
+      class="mb-3">
+<b-card bg-variant="dark" text-variant="white" title= "Hackney Collage">
+  <p class="title-color">
+    Study a great choice of courses for young people and adults.
+    <br>
+    <br>
+    <br>
+  </p>
+  <b-button href="#" target="_blank" variant="info">open</b-button>
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "2">
+  <p class="title-color">
+    Adult education, vocational qualifications and skills for life.
+    <br>
+    <br>
+
+  </p>
+  <b-button href="#" target="_blank" variant="info">open</b-button>
+</b-card>
+
 <b-card bg-variant="dark" text-variant="white" title= "3">
   <p class="title-color">
-    Study online whenever and however you want.
+    Greenwich adult and continuing education.
     <br>
     <br>
     <br>
@@ -106,10 +141,6 @@
   <b-button href="#" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
-
-
-
-
 
     </div>
     </b-row>
