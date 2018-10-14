@@ -39,12 +39,11 @@
         <b-dropdown-item href="/Bexley">Bexley</b-dropdown-item>
         <b-dropdown-item href="/Greenwich">Greenwich</b-dropdown-item>
         <b-dropdown-item href="/Hackney">Hackney</b-dropdown-item>
+        <b-dropdown-item href="/Havering">Havering</b-dropdown-item>
         <b-dropdown-item href="/Lewisham">Lewisham</b-dropdown-item>
         </b-nav-item-dropdown>
 
-      <b-nav-item href="/news">News</b-nav-item>
-      <b-nav-item href="/travel">Travel</b-nav-item>
-      <b-nav-item href="/about">About</b-nav-item>
+      <b-nav-item href="/visit">Places To Visit</b-nav-item>
     </b-navbar-nav>
 
     <!-- Right aligned nav items -->

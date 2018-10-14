@@ -121,19 +121,20 @@
   <b-button href="#" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "2">
+<b-card bg-variant="dark" text-variant="white" title= "Havering Collage">
   <p class="title-color">
-    Adult education, vocational qualifications and skills for life.
+    Place to learn for students of all ages.
     <br>
     <br>
-
+    <br>
+    <br>
   </p>
-  <b-button href="#" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2PyRFlF" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "3">
   <p class="title-color">
-    Greenwich adult and continuing education.
+
     <br>
     <br>
     <br>

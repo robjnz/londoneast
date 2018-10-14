@@ -33,9 +33,6 @@ module.exports = {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    import { Carousel } from 'bootstrap-vue/es/components';
-
-Vue.use(Carousel);
 ],
 
   /*

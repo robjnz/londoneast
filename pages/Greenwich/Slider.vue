@@ -4,13 +4,13 @@
               style = "text-shadow: 1px 1px 2px #333;"
               controls
               indicators
-                    background     = "#ababab"
-                  :interval        = "4000"
-                    img-width      = "1024"
-                    img-height     = "480"
-                    v-model        = "slide"
-                    @sliding-start = "onSlideStart"
-                    @sliding-end   = "onSlideEnd"
+                                      background     = "#ababab"
+                                    :interval        = "4000"
+                                      img-width      = "1024"
+                                      img-height     = "480"
+                                      v-model        = "slide"
+                                      @sliding-start = "onSlideStart"
+                                      @sliding-end   = "onSlideEnd"
     >
 
       <!-- Text slides with image -->
@@ -25,6 +25,13 @@
       <b-carousel-slide caption="Ranger’s House"
                         img-src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_480,w_1024/v1522943311/Ranger_s_House_yior1q.jpg">
                         <b-button href="http://bit.ly/2OgMGcC" target="_blank" variant="info">open</b-button>
+                        </b-carousel-slide>
+      <!-- Slides with custom text -->
+
+      <!-- Text slides with image -->
+      <b-carousel-slide caption="Royal Museums Greenwich"
+                        img-src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_480,w_1024/v1516616360/Cutty_izpwlz.jpg">
+                        <b-button href="http://bit.ly/2yibjM1" target="_blank" variant="info">open</b-button>
                         </b-carousel-slide>
       <!-- Slides with custom text -->
 
