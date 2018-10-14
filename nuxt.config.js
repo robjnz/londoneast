@@ -32,7 +32,7 @@ module.exports = {
   /*
   ** Plugins to load before mounting the App
   */
-  plugins: [{ src: '~plugins/vue-carousel', ssr: false }
+  plugins: [
 ],
 
   /*
@@ -42,7 +42,9 @@ module.exports = {
     // Doc: https://github.com/nuxt-community/axios-module#usage
     '@nuxtjs/axios',
     // Doc: https://bootstrap-vue.js.org/docs/
-    'bootstrap-vue/nuxt'
+    'bootstrap-vue/nuxt',
+    'nuxt-bootstrap-slider',
+
   ],
   /*
   ** Axios module configuration
