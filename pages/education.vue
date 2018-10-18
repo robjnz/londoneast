@@ -132,14 +132,15 @@
   <b-button href="http://bit.ly/2PyRFlF" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "3">
+<b-card bg-variant="dark" text-variant="white" title= "Lewisham Southwark College">
   <p class="title-color">
-
+    Place to learn for students of all ages.
+    <br>
     <br>
     <br>
     <br>
   </p>
-  <b-button href="#" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2QXiJv8" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 

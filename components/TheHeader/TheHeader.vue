@@ -14,7 +14,7 @@
     <b-navbar-nav class="nav">
       <b-nav-item href="/">Home</b-nav-item>
       <b-nav-item-dropdown text="Links" right>
-        <b-dropdown-item href="/computers">Computers</b-dropdown-item>
+        <b-dropdown-item href="/computers">Computer software</b-dropdown-item>
         <b-dropdown-item href="/education">Education</b-dropdown-item>
         <b-dropdown-item href="/housing">Housing</b-dropdown-item>
         <b-dropdown-item href="/goods">Second hand goods</b-dropdown-item>

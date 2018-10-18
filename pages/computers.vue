@@ -2,7 +2,7 @@
 <section main>
   <b-container>
     <b-row>
-    <h1 class="title-color">computers</h1>
+    <h1 class="title-color">computer software</h1>
   <div>
 
 
@@ -391,7 +391,7 @@
     <br>
 
   </p>
-  <b-button href="http://bit.ly/2zlxOQZ" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2OxaFnW" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Windscribe">

@@ -1,7 +1,7 @@
 <template>
 <section main>
-  <b-container>
-    <b-row>
+<b-container>
+  <b-row>
     <h1 class="title-color">Barking & Dagenham</h1>
   <div>
 
@@ -191,6 +191,26 @@
 </b-card>
 </b-card-group>
 
+<h1 class="title-color">Lewisham</h1>
+
+<b-card-group deck
+      class="mb-3">
+
+<b-card bg-variant="dark" text-variant="white" title= "Horniman Museam & Park">
+          <a href="http://bit.ly/2ykLEm0" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1539800561/horniman_kldtw1.jpg" fluid-grow alt="Horniman Museam & Park"/></a>
+
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "Rainham Hall">
+            <a href="#" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1518449460/rainhamhall_meje7p.jpg" fluid-grow alt="Rainham Hall"/></a>
+
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "Romford Market">
+              <a href="#" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1518450238/romfordmarket_gs5n5q.jpg" fluid-grow alt="Romford Market"/></a>
+
+</b-card>
+</b-card-group>
 
   </div>
   </b-row>
