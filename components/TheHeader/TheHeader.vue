@@ -41,6 +41,7 @@
         <b-dropdown-item href="/Hackney">Hackney</b-dropdown-item>
         <b-dropdown-item href="/Havering">Havering</b-dropdown-item>
         <b-dropdown-item href="/Lewisham">Lewisham</b-dropdown-item>
+        <b-dropdown-item href="/Newham">Newham</b-dropdown-item>
         </b-nav-item-dropdown>
 
       <b-nav-item href="/visit">Places To Visit</b-nav-item>

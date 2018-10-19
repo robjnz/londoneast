@@ -1,9 +1,9 @@
 <template>
 <section main>
 <b-container>
-  <b-row>
-    <h1 class="title-color">Barking & Dagenham</h1>
-  <div>
+<b-row>
+  <h1 class="title-color">Barking & Dagenham</h1>
+<div>
 
 
 <b-card-group deck
@@ -201,13 +201,53 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Rainham Hall">
-            <a href="#" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1518449460/rainhamhall_meje7p.jpg" fluid-grow alt="Rainham Hall"/></a>
+<b-card bg-variant="dark" text-variant="white" title= "">
+            <a href="#" target="_blank"><b-img src="" fluid-grow alt=""/></a>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "Romford Market">
-              <a href="#" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1518450238/romfordmarket_gs5n5q.jpg" fluid-grow alt="Romford Market"/></a>
+<b-card bg-variant="dark" text-variant="white" title= "">
+              <a href="#" target="_blank"><b-img src="" fluid-grow alt=""/></a>
+
+</b-card>
+</b-card-group>
+
+<h1 class="title-color">Newham</h1>
+
+<b-card-group deck
+      class="mb-3">
+
+<b-card bg-variant="dark" text-variant="white" title= "Lee Valley">
+          <a href="http://bit.ly/2AiFQuA" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1523432592/leevalley_co8fet.jpg" fluid-grow alt="Lee Valley"/></a>
+
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "House Mill">
+            <a href="http://bit.ly/2NMZMsR" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1523459481/House_Mill_ygjttm.jpg" fluid-grow alt="House Mill"/></a>
+
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "Newham City Farm">
+              <a href="http://bit.ly/2q11BZL" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1523425743/newham_city_farm_rwdoj6.jpg" fluid-grow alt="Newham City Farm"/></a>
+
+</b-card>
+</b-card-group>
+
+<b-card-group deck
+      class="mb-3">
+
+<b-card bg-variant="dark" text-variant="white" title= "Queen Elizabeth <br>Olympic Park">
+          <a href="http://bit.ly/2EBro4X" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1523425247/queen_eliabeth_park_t5cez6.jpg" fluid-grow alt="Queen Elizabeth Olympic Park"/></a>
+
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "">
+            <a href="#" target="_blank"><b-img src="" fluid-grow alt=""/></a>
+
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "">
+              <a href="#" target="_blank"><b-img src="" fluid-grow alt=""/></a>
 
 </b-card>
 </b-card-group>

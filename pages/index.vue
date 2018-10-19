@@ -5,14 +5,15 @@
     <h1>Information about what's going on in East London.</h1>
     </div>
   </div>
-  <script>
-  (function (w,i,d,g,e,t,s) {w[d] = w[d]||[];t= i.createElement(g);
-    t.async = 1;t.src = e;s = i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s);
-  })(window, document, '_gscq','script','//widgets.getsitecontrol.com/159860/script.js');
-</script>
-</section>
 
-
+  <div class="alert" >
+    <div class="row">
+    <h2>Museum of London Docklands. <br>free daily  10am - 6pm.</h2>
+        <b-button href="http://bit.ly/2EyBcwJ" target="_blank" variant="info">open</b-button>
+  <h2>19 October 2018</h2>
+    </div>
+  </div>
+  </section>
 </template>
 
 <style scoped>
@@ -22,7 +23,7 @@
   -webkit-background-size: cover;
   -moz-background-size   : cover;
   -o-background-size     : cover;
-  height                 : 700px;
+  height                 : 900px;
   margin-top             : -75px;
 
 }
@@ -32,6 +33,15 @@
   margin-top  : 50px;
   padding     : 30px;
   color       : ghostwhite;
+  font-family : Damion;
+  }
+
+  .alert{
+  margin-left : 20px;
+  margin-right: 1000px;
+  margin-top  : 1px;
+  padding     : 30px;
+  color       : #171718;
   font-family : Damion;
   }
 
