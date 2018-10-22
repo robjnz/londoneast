@@ -157,7 +157,7 @@
   <b-button href="http://bit.ly/2NQrC7H" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "2">
+<b-card bg-variant="dark" text-variant="white" title= "Redbridge Institute">
   <p class="title-color">
     Place to learn for students of all ages.
     <br>
@@ -165,7 +165,7 @@
     <br>
     <br>
   </p>
-  <b-button href="#" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2Am2LVU" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "3">
