@@ -2,10 +2,7 @@
 <section main>
   <b-container>
     <h1 class="title-color">Greenwich</h1>
-    <br>
-
-    <Slider />
-    <br>
+  
   <b-card-group deck
                   class="mb-3">
         <b-card  bg-variant="dark" text-variant="white" title="Places To Eat">

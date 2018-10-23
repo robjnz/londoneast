@@ -43,31 +43,38 @@
         <b-dropdown-item href="/Lewisham">Lewisham</b-dropdown-item>
         <b-dropdown-item href="/Newham">Newham</b-dropdown-item>
         <b-dropdown-item href="/Redbridge">Redbridge</b-dropdown-item>
+        <b-dropdown-item href="/Tower-Hamlets">Tower Hamlets</b-dropdown-item>
         </b-nav-item-dropdown>
 
       <b-nav-item href="/visit">Places To Visit</b-nav-item>
+
+      <b-nav-item-dropdown text="Entertainment" right>
+        <b-dropdown-item href="/Barking">Barking</b-dropdown-item>
+        <b-dropdown-item href="/Bexley">Bexley</b-dropdown-item>
+        <b-dropdown-item href="/Greenwich">Greenwich</b-dropdown-item>
+        <b-dropdown-item href="/Hackney">Hackney</b-dropdown-item>
+        <b-dropdown-item href="/Havering">Havering</b-dropdown-item>
+        <b-dropdown-item href="/Lewisham">Lewisham</b-dropdown-item>
+        <b-dropdown-item href="/Newham">Newham</b-dropdown-item>
+        <b-dropdown-item href="/Redbridge">Redbridge</b-dropdown-item>
+        <b-dropdown-item href="/Tower-Hamlets">Tower Hamlets</b-dropdown-item>
+        </b-nav-item-dropdown>
+
+        <b-nav-item-dropdown text="Jobs" right>
+        <b-dropdown-item href="/Barking">Barking</b-dropdown-item>
+        <b-dropdown-item href="/Bexley">Bexley</b-dropdown-item>
+        <b-dropdown-item href="/Greenwich">Greenwich</b-dropdown-item>
+        <b-dropdown-item href="/Hackney">Hackney</b-dropdown-item>
+        <b-dropdown-item href="/Havering">Havering</b-dropdown-item>
+        <b-dropdown-item href="/Lewisham">Lewisham</b-dropdown-item>
+        <b-dropdown-item href="/Newham">Newham</b-dropdown-item>
+        <b-dropdown-item href="/Redbridge">Redbridge</b-dropdown-item>
+        <b-dropdown-item href="/Tower-Hamlets">Tower Hamlets</b-dropdown-item>
+        </b-nav-item-dropdown>
     </b-navbar-nav>
 
     <!-- Right aligned nav items -->
     <b-navbar-nav class="ml-auto">
-
-
-
-      <b-nav-item-dropdown text="Lang" right>
-        <b-dropdown-item href="#">EN</b-dropdown-item>
-        <b-dropdown-item href="#">ES</b-dropdown-item>
-        <b-dropdown-item href="#">RU</b-dropdown-item>
-        <b-dropdown-item href="#">FA</b-dropdown-item>
-      </b-nav-item-dropdown>
-
-      <b-nav-item-dropdown right>
-        <!-- Using button-content slot -->
-        <template slot="button-content">
-          <em>User</em>
-        </template>
-        <b-dropdown-item href="#">Profile</b-dropdown-item>
-        <b-dropdown-item href="#">Signout</b-dropdown-item>
-      </b-nav-item-dropdown>
     </b-navbar-nav>
 
   </b-collapse>
@@ -87,7 +94,7 @@
 }
 
 .nav{
-  font-size: 22px;
+  font-size: 21px;
 }
 
 .dropdown-item{

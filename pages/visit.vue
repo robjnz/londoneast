@@ -293,6 +293,47 @@
 </b-card-group>
 
 
+<h1 class="title-color">Tower Hamlets</h1>
+
+<b-card-group deck
+      class="mb-3">
+
+<b-card bg-variant="dark" text-variant="white" title= "Docklands Museum">
+          <a href="Docklands museum" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516617068/docklands_cdf4n1.jpg" fluid-grow alt="Docklands Museum"/></a>
+
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "Mudchute">
+            <a href="http://bit.ly/2CXL8ON" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521544523/mudchute_ajuyq6.jpg" fluid-grow alt="Mudchute"/></a>
+
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "Ragged School Museum">
+              <a href="http://bit.ly/2R9hzMW" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516616792/school_oc6iie.jpg" fluid-grow alt="Ragged School Museum"/></a>
+
+</b-card>
+</b-card-group>
+
+<b-card-group deck
+      class="mb-3">
+
+<b-card bg-variant="dark" text-variant="white" title= "Tower Of London">
+          <a href="http://bit.ly/2OKnQ4U" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1516614546/tower_vgxpev.jpg" fluid-grow alt="Tower Of London"/></a>
+
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "Trinity Buoy Wharf">
+            <a href="http://bit.ly/2D11g22" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521546145/Bow_Creek_Lighthouse_srxzuj.jpg" fluid-grow alt="Trinity Buoy Wharf"/></a>
+
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "Wilton's Music Hall">
+              <a href="http://bit.ly/2R9bBf7" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1521549561/Wilton_s_Music_Hall_girpj6.jpg" fluid-grow alt="Wilton's Music Hall"/></a>
+
+</b-card>
+</b-card-group>
+
+
   </div>
   </b-row>
 </b-container>

@@ -168,15 +168,15 @@
   <b-button href="http://bit.ly/2Am2LVU" target="_blank" variant="info">open</b-button>
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "3">
+<b-card bg-variant="dark" text-variant="white" title= "IDEA Tower Hamlets">
   <p class="title-color">
-    Place to learn for students of all ages.
+    Wide range of adult learning courses and an extensive activities and events programme.
     <br>
     <br>
     <br>
     <br>
   </p>
-  <b-button href="#" target="_blank" variant="info">open</b-button>
+  <b-button href="http://bit.ly/2CBAMmI" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
