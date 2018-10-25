@@ -44,20 +44,15 @@
         <b-dropdown-item href="/Newham">Newham</b-dropdown-item>
         <b-dropdown-item href="/Redbridge">Redbridge</b-dropdown-item>
         <b-dropdown-item href="/Tower-Hamlets">Tower Hamlets</b-dropdown-item>
+        <b-dropdown-item href="/Waltham-Forest">Waltham Forest</b-dropdown-item>
         </b-nav-item-dropdown>
 
       <b-nav-item href="/visit">Places To Visit</b-nav-item>
 
       <b-nav-item-dropdown text="Entertainment" right>
-        <b-dropdown-item href="/Barking">Barking</b-dropdown-item>
-        <b-dropdown-item href="/Bexley">Bexley</b-dropdown-item>
-        <b-dropdown-item href="/Greenwich">Greenwich</b-dropdown-item>
-        <b-dropdown-item href="/Hackney">Hackney</b-dropdown-item>
-        <b-dropdown-item href="/Havering">Havering</b-dropdown-item>
-        <b-dropdown-item href="/Lewisham">Lewisham</b-dropdown-item>
-        <b-dropdown-item href="/Newham">Newham</b-dropdown-item>
-        <b-dropdown-item href="/Redbridge">Redbridge</b-dropdown-item>
-        <b-dropdown-item href="/Tower-Hamlets">Tower Hamlets</b-dropdown-item>
+        <b-dropdown-item href="/cinemas">Cinemas</b-dropdown-item>
+        <b-dropdown-item href="/TV">Television & Movies</b-dropdown-item>
+        <b-dropdown-item href="/Theatres">Theatres</b-dropdown-item>
         </b-nav-item-dropdown>
 
         <b-nav-item-dropdown text="Jobs" right>

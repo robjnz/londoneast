@@ -180,6 +180,40 @@
 </b-card>
 </b-card-group>
 
+
+<b-card-group deck
+      class="mb-3">
+<b-card bg-variant="dark" text-variant="white" title= "Waltham Forest Collage">
+  <p class="title-color">
+      Place to learn for students of all ages.
+    <br>
+    <br>
+    <br>
+  </p>
+  <b-button href="http://bit.ly/2O3JYCm" target="_blank" variant="info">open</b-button>
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "">
+  <p class="title-color">
+    <br>
+    <br>
+    <br>
+    <br>
+  </p>
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "">
+  <p class="title-color">
+
+    <br>
+    <br>
+    <br>
+    <br>
+  </p>
+
+</b-card>
+</b-card-group>
+
     </div>
     </b-row>
       </b-container>
