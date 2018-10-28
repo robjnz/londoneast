@@ -52,7 +52,8 @@
       <b-nav-item-dropdown text="Entertainment" right>
         <b-dropdown-item href="/cinemas">Cinemas</b-dropdown-item>
         <b-dropdown-item href="/TV">Television & Movies</b-dropdown-item>
-        <b-dropdown-item href="/Theatres">Theatres</b-dropdown-item>
+        <b-dropdown-item href="/theatres">Theatres</b-dropdown-item>
+        <b-dropdown-item href="/restaurants">Restaurants Guides</b-dropdown-item>
         </b-nav-item-dropdown>
 
         <b-nav-item-dropdown text="Jobs" right>
