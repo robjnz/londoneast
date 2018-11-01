@@ -9,7 +9,7 @@
 <b-card bg-variant="dark" text-variant="white" title= "">
   <p class="title-color">
 
-<form action="/thanks" name="contact" method="POST" netlify>
+<form action ="/thanks" name="contact" method="POST" netlify>
   <p>
     <label>Your Name: <input type="text" name="name" /></label>
   </p>
