@@ -57,15 +57,15 @@
         </b-nav-item-dropdown>
 
         <b-nav-item-dropdown text="Jobs" right>
-        <b-dropdown-item href="/Barking">Barking</b-dropdown-item>
-        <b-dropdown-item href="/Bexley">Bexley</b-dropdown-item>
-        <b-dropdown-item href="/Greenwich">Greenwich</b-dropdown-item>
-        <b-dropdown-item href="/Hackney">Hackney</b-dropdown-item>
-        <b-dropdown-item href="/Havering">Havering</b-dropdown-item>
-        <b-dropdown-item href="/Lewisham">Lewisham</b-dropdown-item>
-        <b-dropdown-item href="/Newham">Newham</b-dropdown-item>
-        <b-dropdown-item href="/Redbridge">Redbridge</b-dropdown-item>
-        <b-dropdown-item href="/Tower-Hamlets">Tower Hamlets</b-dropdown-item>
+        <b-dropdown-item href="/job-resources">Job Resources</b-dropdown-item>
+        <b-dropdown-item href="/volunteering">Volunteering</b-dropdown-item>
+        <b-dropdown-item href="/video">Job search Advice videos</b-dropdown-item>
+        </b-nav-item-dropdown>
+
+        <b-nav-item-dropdown text="Sport" right>
+        <b-dropdown-item href="/job-resources">Job Resources</b-dropdown-item>
+        <b-dropdown-item href="/volunteering">Volunteering</b-dropdown-item>
+        <b-dropdown-item href="/video">Job search videos Advice</b-dropdown-item>
         </b-nav-item-dropdown>
     </b-navbar-nav>
 
