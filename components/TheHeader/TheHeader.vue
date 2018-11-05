@@ -64,9 +64,7 @@
         </b-nav-item-dropdown>
 
         <b-nav-item-dropdown text="Sport" right>
-        <b-dropdown-item href="/job-resources">Job Resources</b-dropdown-item>
-        <b-dropdown-item href="/volunteering">Volunteering</b-dropdown-item>
-        <b-dropdown-item href="/video">Job search videos Advice</b-dropdown-item>
+        <b-dropdown-item href="/football">Football</b-dropdown-item>
         </b-nav-item-dropdown>
     </b-navbar-nav>
 

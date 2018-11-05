@@ -2,15 +2,7 @@
 <section show class="showcase">
   <div class="intro" >
     <div class="row">
-    <h1>Information about what's going on in East London.</h1>
-    </div>
-  </div>
-
-  <div class="alert" >
-    <div class="row">
-    <h2>Museum of London Docklands. <br>free daily  10am - 6pm.</h2>
-        <b-button href="http://bit.ly/2EyBcwJ" target="_blank" variant="info">open</b-button>
-  <h2>01 November 2018</h2>
+    <h1>Thanks for your message.</h1>
     </div>
   </div>
   </section>
@@ -36,14 +28,6 @@
   font-family : Damion;
   }
 
-  .alert{
-  margin-left : 20px;
-  margin-right: 1000px;
-  margin-top  : 1px;
-  padding     : 30px;
-  color       : #171718;
-  font-family : Damion;
-  }
 
 
 </style>

@@ -10,7 +10,7 @@
     <div class="row">
     <h2>Museum of London Docklands. <br>free daily  10am - 6pm.</h2>
         <b-button href="http://bit.ly/2EyBcwJ" target="_blank" variant="info">open</b-button>
-  <h2>01 November 2018</h2>
+  <h2>06 November 2018</h2>
     </div>
   </div>
   </section>

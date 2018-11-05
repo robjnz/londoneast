@@ -12,6 +12,7 @@
 
   </p>
   <b-button-group>
+  <b-button href="http://bit.ly/2yV76Oz" target="_blank" variant="info">Adzuna</b-button>
   <b-button href="http://bit.ly/2ACyoKQ" target="_blank" variant="info">Cv Library</b-button>
   <b-button href="http://bit.ly/2Of9q7V" target="_blank" variant="info">Find A Job</b-button>
   </b-button-group>
