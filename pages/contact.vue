@@ -4,30 +4,10 @@
     <h1 class="title-color">Contact me</h1>
   <div>
 
-<b-card-group deck
-      class="mb-3">
-<b-card bg-variant="dark" text-variant="white" title= "">
-  <p class="title-color"></p>
-<form name="contact" method="POST" action="/thanks/" netlify>
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit" value="Submit" id="Form-submit" >Submit</button>
-  </p>
-
-</form>
-</b-card>
 
 
-</b-card-group>
+
+<div class="typeform-widget" data-url="https://robin518.typeform.com/to/EFpPdi" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=EFpPdi&utm_source=typeform.com-12868770-Basic&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
 
 
 
