@@ -379,10 +379,23 @@
 </b-card>
 
 
-</b-card-group>
 
+</b-card-group>
 <b-card-group deck
-      class="mb-3">
+  class="mb-3">
+
+<b-card bg-variant="dark" text-variant="white" title= "Vivaldi">
+  <p class="title-color">
+    Web browser.
+    <br>
+    <br>
+    <br>
+    </p>
+    <b-button href="http://bit.ly/2DN1mtk" target="_blank" variant="info">open</b-button>
+
+</b-card>
+
+
 
 <b-card bg-variant="dark" text-variant="white" title= "Windows Repair ">
   <p class="title-color">
@@ -393,6 +406,8 @@
   </p>
   <b-button href="http://bit.ly/2OxaFnW" target="_blank" variant="info">open</b-button>
 </b-card>
+
+
 
 <b-card bg-variant="dark" text-variant="white" title= "Windscribe">
   <p class="title-color">
@@ -405,6 +420,10 @@
   <b-button href="http://bit.ly/2O5MwDQ" target="_blank" variant="info">open</b-button>
 </b-card>
 
+</b-card-group>
+<b-card-group deck
+  class="mb-3">
+
 <b-card bg-variant="dark" text-variant="white" title= "WinSCP">
 <p class="title-color">
     WinSCP is a SFTP client and FTP client for Microsoft Windows.
@@ -414,12 +433,6 @@
   <b-button href="http://bit.ly/2CHx9fB" target="_blank" variant="info">open</b-button>
 </b-card>
 
-
-</b-card-group>
-
-
-<b-card-group deck
-      class="mb-3">
 
 <b-card bg-variant="dark" text-variant="white" title= "Wise System Monitor">
 <p class="title-color">
@@ -440,16 +453,6 @@
   </p>
 
 </b-card>
-
-<b-card bg-variant="dark" text-variant="white" title= "">
-<p class="title-color">
-
-    <br>
-    <br>
-  </p>
-</b-card>
-
-
 </b-card-group>
 
 
