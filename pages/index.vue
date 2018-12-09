@@ -8,9 +8,11 @@
 
   <div class="alert" >
     <div class="row">
+    <h2 class ="white">Things to do in east London today.</h2>
     <h2>Museum of London Docklands. <br>free daily  10am - 6pm.</h2>
+    <br>
         <b-button href="http://bit.ly/2EyBcwJ" target="_blank" variant="info">open</b-button>
-  <h2>26 November 2018</h2>
+  <h2>10 December 2018</h2>
     </div>
   </div>
   </section>
@@ -31,19 +33,21 @@
   margin-left : 20px;
   margin-right: 1000px;
   margin-top  : 50px;
-  padding     : 30px;
+  padding-left: 30px;
   color       : ghostwhite;
   font-family : Damion;
   }
 
   .alert{
   margin-left : 20px;
-  margin-right: 1000px;
+  margin-right: 900px;
   margin-top  : 1px;
-  padding     : 30px;
+  padding-left: 30px;
   color       : #171718;
   font-family : Damion;
   }
+
+
 
 
 </style>

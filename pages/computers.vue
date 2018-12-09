@@ -1,7 +1,7 @@
 <template>
 <section main>
   <b-container>
-    <b-row>
+    <b-row> 
     <h1 class="title-color">computer software</h1>
   <div>
 
