@@ -51,8 +51,8 @@ color: #1A8c97;
   color: #1e90ff;
 }
 
-.white{
-  color: white;
+.today{
+  color: #FFF5EE;
 }
 
 

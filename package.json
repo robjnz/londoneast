@@ -1,7 +1,7 @@
 {
   "name": "londonnuxt",
   "version": "1.0.0",
-  "description": "Information about what’s happening in east London, live travel updates on the underground, tube, overground, DLR, and the busses. Links to east London cinemas, theatre, places to eat and visit for days out, job search resources and much more!",
+  "description": "Information about what’s happening in east London Today, live travel updates on the underground, tube, overground, DLR, and the busses. Links to east London cinemas, theatre, places to eat and visit for days out, job search resources and much more!",
   "author": "robjnz",
   "private": true,
   "scripts": {

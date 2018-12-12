@@ -143,19 +143,37 @@ class="mb-3">
 
 <b-card-group deck
       class="mb-3">
+<b-card bg-variant="dark" text-variant="white" title= "Canning Town F.C.">
+<a href="http://bit.ly/2LaQjvK" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544636776/caning_town_fc_s02n01.jpg" fluid-grow alt="Canning Town F.C."/></a>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "Clapton F.C.‎">
+<a href="http://bit.ly/2EsksGG" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544636800/clapton_fc_qkoljy.png" fluid-grow alt="Clapton F.C.‎"/></a>
+
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "Lopes Tavares F.C.‎">
+<a href="http://bit.ly/2QxsJ2w" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544636794/lopes_fc_dg9rib.png" fluid-grow alt="Lopes Tavares F.C."/></a>
+
+</b-card>
+</b-card-group>
+
+<b-card-group deck
+      class="mb-3">
+
+<b-card bg-variant="dark" text-variant="white" title= "West Ham United F.C.‎">
+<a href="http://bit.ly/2QrI8B7" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544636784/west_ham_fc_wrookz.png" fluid-grow alt="West Ham United F.C.‎"/></a>
+
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "‎">
 <a href="" target="_blank"><b-img src="" fluid-grow alt=""/></a>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
-<a href="" target="_blank"><b-img src="" fluid-grow alt=""/></a>
-
-</b-card>
-
-<b-card bg-variant="dark" text-variant="white" title= "">
-<a href="" target="_blank"><b-img src="" fluid-grow alt=""/></a>
+<b-card bg-variant="dark" text-variant="white" title= "‎">
+<a href="" target="_blank"><b-img src="" fluid-grow alt="‎"/></a>
 
 </b-card>
 </b-card-group>
