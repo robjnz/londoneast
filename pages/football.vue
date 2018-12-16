@@ -168,13 +168,10 @@ class="mb-3">
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "‎">
-<a href="" target="_blank"><b-img src="" fluid-grow alt=""/></a>
 
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "‎">
-<a href="" target="_blank"><b-img src="" fluid-grow alt="‎"/></a>
-
 </b-card>
 </b-card-group>
 
@@ -184,19 +181,34 @@ class="mb-3">
 <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "">
-<a href="" target="_blank"><b-img src="" fluid-grow alt=""/></a>
+<b-card bg-variant="dark" text-variant="white" title= "Barkingside F.C.">
+<a href="http://bit.ly/2Ei7cTX" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544893906/barkingside_fc_symwfs.jpg" fluid-grow alt="Barkingside F.C."/></a>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
-<a href="" target="_blank"><b-img src="" fluid-grow alt=""/></a>
+<b-card bg-variant="dark" text-variant="white" title= "Frenford F.C.">
+<a href="http://bit.ly/2Ej5mlI" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544893919/frendford_tzob4b.jpg" fluid-grow alt="Frenford F.C."/></a>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
-<a href="" target="_blank"><b-img src="" fluid-grow alt=""/></a>
+<b-card bg-variant="dark" text-variant="white" title= "Ilford F.C.">
+<a href="http://bit.ly/2ElHWMO" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544893912/ilford_fc_nlgsck.jpg" fluid-grow alt="Ilford F.C."/></a>
 
+</b-card>
+</b-card-group>
+
+<b-card-group deck
+      class="mb-3">
+
+<b-card bg-variant="dark" text-variant="white" title= "Newbury Forest F.C.">
+<a href="http://bit.ly/2LfbexT" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544893664/newbury_fc_vqsc8u.jpg" fluid-grow alt="Newbury Forest F.C."/></a>
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "Redbridge F.C.">
+<a href="http://bit.ly/2PBVqWu" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544893899/redbridge_fc_xvapdx.jpg" fluid-grow alt="Redbridge F.C."/></a>
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "">
 </b-card>
 </b-card-group>
 
@@ -205,18 +217,17 @@ class="mb-3">
 <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "">
-<a href="" target="_blank"><b-img src="" fluid-grow alt=""/></a>
+<b-card bg-variant="dark" text-variant="white" title= "Sporting Bengal United F.C.">
+<a href="http://bit.ly/2SThIFp" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544942156/bengal_fc_m3psbc.jpg" fluid-grow alt="Sporting Bengal United F.C."/></a>
+
+</b-card>
+
+<b-card bg-variant="dark" text-variant="white" title= "Tower Hamlets F.C.">
+<a href="http://bit.ly/2Gh9MvW" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544942161/tower_fc_hdziyo.jpg" fluid-grow alt="Tower Hamlets F.C."/></a>
 
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "">
-<a href="http://bit.ly/2CXL8ON" target="_blank"><b-img src="" fluid-grow alt=""/></a>
-
-</b-card>
-
-<b-card bg-variant="dark" text-variant="white" title= "">
-<a href="" target="_blank"><b-img src="" fluid-grow alt=""/></a>
 
 </b-card>
 </b-card-group>
@@ -227,20 +238,22 @@ class="mb-3">
 <b-card-group deck
       class="mb-3">
 
-<b-card bg-variant="dark" text-variant="white" title= "">
-<a href="" target="_blank"><b-img src="" fluid-grow alt=""/></a>
+<b-card bg-variant="dark" text-variant="white" title= "Leyton Athletic F.C.">
+<a href="http://bit.ly/2LjQdCd" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544943982/leyton_athletic_fc_btdqh9.jpg" fluid-grow alt="Leyton Athletic F.C."/></a>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
-<a href="" target="_blank"><b-img src="" fluid-grow alt=""/></a>
+<b-card bg-variant="dark" text-variant="white" title= "Leyton Orient F.C.">
+<a href="http://bit.ly/2GsFU02" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544943996/leyton_orient_wltsdq.jpg" fluid-grow alt="Leyton Orient F.C."/></a>
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
-<a href="" target="_blank"><b-img src="" fluid-grow alt=""/></a>
+
+<b-card bg-variant="dark" text-variant="white" title= "Walthamstow F.C.">
+<a href="http://bit.ly/2EwPMnp" target="_blank"><b-img src="https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1544943990/walthamstow_fc_wjphs2.jpg" fluid-grow alt="Walthamstow F.C."/></a>
 
 </b-card>
+
 </b-card-group>
 </div>
 </b-container>

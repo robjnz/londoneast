@@ -1,36 +1,36 @@
 {
-  "name": "londonnuxt",
-  "version": "1.0.0",
-  "description": "Information about what’s happening in east London Today, live travel updates on the underground, tube, overground, DLR, and the busses. Links to east London cinemas, theatre, places to eat and visit for days out, job search resources and much more!",
-  "author": "robjnz",
-  "private": true,
-  "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate",
-    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+  "name"       : "londonnuxt",
+  "version"    : "1.0.0",
+  "description": "Information about what’s on in east London Today, live travel updates on the underground, tube, overground, DLR, and the busses. Links to east London cinemas, theatre, places to eat and visit for days out, job search resources and much more!",
+  "author"     : "robjnz",
+  "private"    : true,
+  "scripts"    : {
+    "dev"      : "nuxt",
+    "build"    : "nuxt build",
+    "start"    : "nuxt start",
+    "generate" : "nuxt generate",
+    "lint"     : "eslint --ext .js,.vue --ignore-path .gitignore .",
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.0.0",
-    "@nuxtjs/vuetify": "^0.4.3",
-    "ajv": "^6.5.4",
-    "bootstrap": "^4.0.0-beta.2",
-    "bootstrap-vue": "^1.0.2",
-    "jquery": "^3.3.1",
-    "jshint": "^2.9.6",
-    "mdbvue": "^4.8.0",
-    "nuxt": "^1.0.0",
+    "@nuxtjs/axios"        : "^5.0.0",
+    "@nuxtjs/vuetify"      : "^0.4.3",
+    "ajv"                  : "^6.5.4",
+    "bootstrap"            : "^4.0.0-beta.2",
+    "bootstrap-vue"        : "^1.0.2",
+    "jquery"               : "^3.3.1",
+    "jshint"               : "^2.9.6",
+    "mdbvue"               : "^4.8.0",
+    "nuxt"                 : "^1.0.0",
     "nuxt-bootstrap-slider": "^0.1.4",
-    "v-owl-carousel": "^1.0.7",
-    "vue-carousel": "^0.14.0"
+    "v-owl-carousel"       : "^1.0.7",
+    "vue-carousel"         : "^0.14.0"
   },
   "devDependencies": {
-    "cross-env": "^5.0.1",
-    "babel-eslint": "^8.2.1",
-    "eslint": "^5.0.1",
-    "eslint-loader": "^2.0.0",
+    "cross-env"        : "^5.0.1",
+    "babel-eslint"     : "^8.2.1",
+    "eslint"           : "^5.0.1",
+    "eslint-loader"    : "^2.0.0",
     "eslint-plugin-vue": "^4.0.0"
   }
 }
