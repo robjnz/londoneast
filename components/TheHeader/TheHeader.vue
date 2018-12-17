@@ -64,7 +64,8 @@
         </b-nav-item-dropdown>
 
         <b-nav-item-dropdown text="Sport" right>
-        <b-dropdown-item href="/football">Football</b-dropdown-item>
+        <b-dropdown-item href="/football">Football Clubs</b-dropdown-item>
+        <b-dropdown-item href="/running">Running Clubs</b-dropdown-item>
         </b-nav-item-dropdown>
     </b-navbar-nav>
 
