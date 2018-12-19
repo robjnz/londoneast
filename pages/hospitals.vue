@@ -2,7 +2,7 @@
 <section main>
   <b-container>
     <b-row>
-    <h1 class="title-color">Hospitals</h1>
+    <h1 class="title-color">Hospitals in East London</h1>
     <br>
   <div>
 

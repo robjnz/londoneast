@@ -1,7 +1,7 @@
 <template>
 <section main>
   <b-container>
-    <h1 class="title-color">Live Train Information</h1>
+    <h1 class="title-color">Live Train Information in East London</h1>
   <div>
   <Barking />
   <Bexley />
