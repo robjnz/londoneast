@@ -1,7 +1,7 @@
 {
   "name"       : "londonnuxt",
   "version"    : "1.0.0",
-  "description": "Information about what’s on and places to visit for days out in east London Today, live travel updates on the underground, overground, DLR, and the busses. Links to east London cinemas, theatre, sports, places to eat, job search resources and much more!",
+  "description": "Information about what’s on and places to visit for days out in east London Today, Wednessday 26 December 2018, live travel updates on the underground, overground, DLR, and the busses. Links to east London cinemas, theatre, sports, places to eat, job search resources and much more!",
   "author"     : "robjnz",
   "private"    : true,
   "scripts"    : {

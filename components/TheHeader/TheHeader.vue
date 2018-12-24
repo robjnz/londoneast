@@ -68,6 +68,7 @@
         <b-dropdown-item href="/Sport/rugby">Rugby Football Clubs</b-dropdown-item>
         <b-dropdown-item href="/Sport/running">Running Clubs</b-dropdown-item>
         <b-dropdown-item href="/Sport/swimming">Swimming Pools</b-dropdown-item>
+        <b-dropdown-item href="/Sport/tennis">Tennis Clubs</b-dropdown-item>
         </b-nav-item-dropdown>
     </b-navbar-nav>
 
